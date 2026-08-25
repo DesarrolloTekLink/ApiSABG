@@ -1,0 +1,1082 @@
+{
+  "Contrato": {
+    "CodigoExpediente": "E-2026-00038404",
+    "NumeroProcedimiento": "AA-80-V11-921079942-N-3-2026",
+    "CodigoContrato": "C-2026-00030918",
+    "NumeroContrato": "ITSA/04-04-2026",
+    "TituloContrato": "SERVICIO DE CONECTIVIDAD Y TRANSPORTE DE DATOS (INTERNET) EJERCICIO FISCAL 2026.",
+    "EstatusBitacora": "EN SEGUIMIENTO",
+    "EstatusContrato": "FORMALIZADO",
+    "MontoTotalMinimo": "CERRADO",
+    "MontoMaximo": "$291,724.14",
+    "Moneda": "",
+    "FechaInicio": "MXN",
+    "FechaFin": "23/04/2026",
+    "Convenio": "31/12/2026",
+    "EntreEntesPublicos": "0",
+    "Acciones": null
+  },
+  "ListaInputsInfo": [
+    {
+      "Panel": "FormPrincipal",
+      "Nombre": "InPutcodigo_contrato",
+      "ValorOriginal": "C-2026-00030918",
+      "TipoDato": 9,
+      "ValorConvertido": "C-2026-00030918"
+    },
+    {
+      "Panel": "FormPrincipal",
+      "Nombre": "InPutnum_control_interno",
+      "ValorOriginal": "ITSA/04-04-2026",
+      "TipoDato": 9,
+      "ValorConvertido": "ITSA/04-04-2026"
+    },
+    {
+      "Panel": "FormPrincipal",
+      "Nombre": "InPutnumero_procedimiento",
+      "ValorOriginal": "AA-80-V11-921079942-N-3-2026",
+      "TipoDato": 9,
+      "ValorConvertido": "AA-80-V11-921079942-N-3-2026"
+    },
+    {
+      "Panel": "FormPrincipal",
+      "Nombre": "InPutestatus_seguimiento",
+      "ValorOriginal": "EN SEGUIMIENTO",
+      "TipoDato": 9,
+      "ValorConvertido": "EN SEGUIMIENTO"
+    },
+    {
+      "Panel": "FormPrincipal",
+      "Nombre": "InPuttotal_min_actualizado",
+      "ValorOriginal": "$291,724.14",
+      "TipoDato": 9,
+      "ValorConvertido": "$291,724.14"
+    },
+    {
+      "Panel": "FormPrincipal",
+      "Nombre": "InPutfecha_inicial",
+      "ValorOriginal": "23/04/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-04-23T00:00:00"
+    },
+    {
+      "Panel": "FormPrincipal",
+      "Nombre": "InPutfecha_fin_actualizada",
+      "ValorOriginal": "31/12/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-12-31T00:00:00"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPuttipo_procedimiento",
+      "ValorOriginal": "ADJUDICACIÓN DIRECTA",
+      "TipoDato": 9,
+      "ValorConvertido": "ADJUDICACIÓN DIRECTA"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutley",
+      "ValorOriginal": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO",
+      "TipoDato": 9,
+      "ValorConvertido": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPuttipo_contratacion",
+      "ValorOriginal": "SERVICIOS",
+      "TipoDato": 9,
+      "ValorConvertido": "SERVICIOS"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutfundamento_legal",
+      "ValorOriginal": "Art. 55 párrafo primero",
+      "TipoDato": 9,
+      "ValorConvertido": "Art. 55 párrafo primero"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutcaracter",
+      "ValorOriginal": "NACIONAL",
+      "TipoDato": 9,
+      "ValorConvertido": "NACIONAL"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutfecha_convocatoria",
+      "ValorOriginal": "20/04/2026 14:15",
+      "TipoDato": 9,
+      "ValorConvertido": "20/04/2026 14:15"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutfecha_notificacion_adjudica",
+      "ValorOriginal": "22/04/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-04-22T00:00:00"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutes_consolidada",
+      "ValorOriginal": "No",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutdependencia_contratante",
+      "ValorOriginal": "080V11 - INSTITUTO TECNOLÓGICO SUPERIOR DE ATLIXCO",
+      "TipoDato": 9,
+      "ValorConvertido": "080V11 - INSTITUTO TECNOLÓGICO SUPERIOR DE ATLIXCO"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutunidad_compradora",
+      "ValorOriginal": "V11 - INSTITUTO TECNOLÓGICO SUPERIOR DE ATLIXCO",
+      "TipoDato": 9,
+      "ValorConvertido": "V11 - INSTITUTO TECNOLÓGICO SUPERIOR DE ATLIXCO"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutunidad_requirente",
+      "ValorOriginal": "921079942 - SUDIRECCIÓN DE SERVICIOS ADMINISTRATIVOS",
+      "TipoDato": 9,
+      "ValorConvertido": "921079942 - SUDIRECCIÓN DE SERVICIOS ADMINISTRATIVOS"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPutnum_control_interno",
+      "ValorOriginal": "ITSA/04-04-2026",
+      "TipoDato": 9,
+      "ValorConvertido": "ITSA/04-04-2026"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPutfecha_inicial",
+      "ValorOriginal": "23/04/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-04-23T00:00:00"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPutfecha_final",
+      "ValorOriginal": "31/12/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-12-31T00:00:00"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPutfecha_formalizacion",
+      "ValorOriginal": "23/04/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-04-23T00:00:00"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPuttitulo_contrato",
+      "ValorOriginal": "SERVICIO DE CONECTIVIDAD Y TRANSPORTE DE DATOS (INTERNET) EJERCICIO FISCAL 2026.",
+      "TipoDato": 9,
+      "ValorConvertido": "SERVICIO DE CONECTIVIDAD Y TRANSPORTE DE DATOS (INTERNET) EJERCICIO FISCAL 2026."
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPutdescripcion_contrato",
+      "ValorOriginal": "CONTAR CON SERVICIO DE CONECTIVIDAD ES UNA NECESIDAD PARA GARANTIZAR EL ADECUADO FUNCIONAMIENTO DE DIVERSA ACTIVIDADES ACADÉMICAS Y ADMINISTRATIVAS.",
+      "TipoDato": 9,
+      "ValorConvertido": "CONTAR CON SERVICIO DE CONECTIVIDAD ES UNA NECESIDAD PARA GARANTIZAR EL ADECUADO FUNCIONAMIENTO DE DIVERSA ACTIVIDADES ACADÉMICAS Y ADMINISTRATIVAS."
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPuttipo_contrato",
+      "ValorOriginal": "CERRADO",
+      "TipoDato": 9,
+      "ValorConvertido": "CERRADO"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPutmonto_minimo",
+      "ValorOriginal": "$291,724.14",
+      "TipoDato": 9,
+      "ValorConvertido": "$291,724.14"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPutmoneda",
+      "ValorOriginal": "PESO MEXICANO",
+      "TipoDato": 9,
+      "ValorConvertido": "PESO MEXICANO"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPutplurianual",
+      "ValorOriginal": "NO",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "SUFICIENCIA PRESUPUESTAL",
+      "Nombre": "InPutcurrency-us",
+      "ValorOriginal": "$291,724.14",
+      "TipoDato": 9,
+      "ValorConvertido": "$291,724.14"
+    },
+    {
+      "Panel": "SUFICIENCIA PRESUPUESTAL",
+      "Nombre": "InPutppi",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "GARANTÍAS",
+      "Nombre": "InPutgarantia_cumplimiento",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "GARANTÍAS",
+      "Nombre": "InPutgarantia_bien_servicio",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "GARANTÍAS",
+      "Nombre": "InPutgarantia_anticipo",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "GARANTÍAS",
+      "Nombre": "InPutseguros",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Garantía de cumplimiento",
+      "Nombre": "InPutgarantia_cumplimiento",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Garantía sobre el bien",
+      "Nombre": "InPutgarantia_bien_servicio",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Garantía de anticipo",
+      "Nombre": "InPutgarantia_anticipo",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Garantía de responsabilidad civil",
+      "Nombre": "InPutseguros",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "ADMINISTRADOR DEL CONTRATO",
+      "Nombre": "InPutmetakeyaoga011022uja",
+      "ValorOriginal": "true",
+      "TipoDato": 8,
+      "ValorConvertido": true
+    },
+    {
+      "Panel": "PROVEEDOR",
+      "Nombre": "InPutley",
+      "ValorOriginal": "No",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPuttipo_procedimiento",
+      "ValorOriginal": "ADJUDICACIÓN DIRECTA",
+      "TipoDato": 9,
+      "ValorConvertido": "ADJUDICACIÓN DIRECTA"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutley",
+      "ValorOriginal": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO",
+      "TipoDato": 9,
+      "ValorConvertido": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPuttipo_contratacion",
+      "ValorOriginal": "SERVICIOS",
+      "TipoDato": 9,
+      "ValorConvertido": "SERVICIOS"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutfundamento_legal",
+      "ValorOriginal": "Art. 55 párrafo primero",
+      "TipoDato": 9,
+      "ValorConvertido": "Art. 55 párrafo primero"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutcaracter",
+      "ValorOriginal": "NACIONAL",
+      "TipoDato": 9,
+      "ValorConvertido": "NACIONAL"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutfecha_convocatoria",
+      "ValorOriginal": "20/04/2026 14:15",
+      "TipoDato": 9,
+      "ValorConvertido": "20/04/2026 14:15"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutfecha_notificacion_adjudica",
+      "ValorOriginal": "22/04/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-04-22T00:00:00"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutes_consolidada",
+      "ValorOriginal": "No",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutdependencia_contratante",
+      "ValorOriginal": "080V11 - INSTITUTO TECNOLÓGICO SUPERIOR DE ATLIXCO",
+      "TipoDato": 9,
+      "ValorConvertido": "080V11 - INSTITUTO TECNOLÓGICO SUPERIOR DE ATLIXCO"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutunidad_compradora",
+      "ValorOriginal": "V11 - INSTITUTO TECNOLÓGICO SUPERIOR DE ATLIXCO",
+      "TipoDato": 9,
+      "ValorConvertido": "V11 - INSTITUTO TECNOLÓGICO SUPERIOR DE ATLIXCO"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL PROCEDIMIENTO",
+      "Nombre": "InPutunidad_requirente",
+      "ValorOriginal": "921079942 - SUDIRECCIÓN DE SERVICIOS ADMINISTRATIVOS",
+      "TipoDato": 9,
+      "ValorConvertido": "921079942 - SUDIRECCIÓN DE SERVICIOS ADMINISTRATIVOS"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPutnum_control_interno",
+      "ValorOriginal": "ITSA/04-04-2026",
+      "TipoDato": 9,
+      "ValorConvertido": "ITSA/04-04-2026"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPutfecha_inicial",
+      "ValorOriginal": "23/04/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-04-23T00:00:00"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPutfecha_final",
+      "ValorOriginal": "31/12/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-12-31T00:00:00"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPutfecha_formalizacion",
+      "ValorOriginal": "23/04/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-04-23T00:00:00"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPuttitulo_contrato",
+      "ValorOriginal": "SERVICIO DE CONECTIVIDAD Y TRANSPORTE DE DATOS (INTERNET) EJERCICIO FISCAL 2026.",
+      "TipoDato": 9,
+      "ValorConvertido": "SERVICIO DE CONECTIVIDAD Y TRANSPORTE DE DATOS (INTERNET) EJERCICIO FISCAL 2026."
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPutdescripcion_contrato",
+      "ValorOriginal": "CONTAR CON SERVICIO DE CONECTIVIDAD ES UNA NECESIDAD PARA GARANTIZAR EL ADECUADO FUNCIONAMIENTO DE DIVERSA ACTIVIDADES ACADÉMICAS Y ADMINISTRATIVAS.",
+      "TipoDato": 9,
+      "ValorConvertido": "CONTAR CON SERVICIO DE CONECTIVIDAD ES UNA NECESIDAD PARA GARANTIZAR EL ADECUADO FUNCIONAMIENTO DE DIVERSA ACTIVIDADES ACADÉMICAS Y ADMINISTRATIVAS."
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPuttipo_contrato",
+      "ValorOriginal": "CERRADO",
+      "TipoDato": 9,
+      "ValorConvertido": "CERRADO"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPutmonto_minimo",
+      "ValorOriginal": "$291,724.14",
+      "TipoDato": 9,
+      "ValorConvertido": "$291,724.14"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPutmoneda",
+      "ValorOriginal": "PESO MEXICANO",
+      "TipoDato": 9,
+      "ValorConvertido": "PESO MEXICANO"
+    },
+    {
+      "Panel": "INFORMACIÓN DEL CONTRATO",
+      "Nombre": "InPutplurianual",
+      "ValorOriginal": "NO",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "SUFICIENCIA PRESUPUESTAL",
+      "Nombre": "InPutcurrency-us",
+      "ValorOriginal": "$291,724.14",
+      "TipoDato": 9,
+      "ValorConvertido": "$291,724.14"
+    },
+    {
+      "Panel": "SUFICIENCIA PRESUPUESTAL",
+      "Nombre": "InPutppi",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "GARANTÍAS",
+      "Nombre": "InPutgarantia_cumplimiento",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "GARANTÍAS",
+      "Nombre": "InPutgarantia_bien_servicio",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "GARANTÍAS",
+      "Nombre": "InPutgarantia_anticipo",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "GARANTÍAS",
+      "Nombre": "InPutseguros",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Garantía de cumplimiento",
+      "Nombre": "InPutgarantia_cumplimiento",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Garantía sobre el bien",
+      "Nombre": "InPutgarantia_bien_servicio",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Garantía de anticipo",
+      "Nombre": "InPutgarantia_anticipo",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Garantía de responsabilidad civil",
+      "Nombre": "InPutseguros",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "ADMINISTRADOR DEL CONTRATO",
+      "Nombre": "InPutmetakeyaoga011022uja",
+      "ValorOriginal": "true",
+      "TipoDato": 8,
+      "ValorConvertido": true
+    },
+    {
+      "Panel": "PROVEEDOR",
+      "Nombre": "InPutley",
+      "ValorOriginal": "No",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPuttipo_procedimiento",
+      "ValorOriginal": "ADJUDICACIÓN DIRECTA",
+      "TipoDato": 9,
+      "ValorConvertido": "ADJUDICACIÓN DIRECTA"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutley",
+      "ValorOriginal": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO",
+      "TipoDato": 9,
+      "ValorConvertido": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPuttipo_contratacion",
+      "ValorOriginal": "SERVICIOS",
+      "TipoDato": 9,
+      "ValorConvertido": "SERVICIOS"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutfundamento_legal",
+      "ValorOriginal": "Art. 55 párrafo primero",
+      "TipoDato": 9,
+      "ValorConvertido": "Art. 55 párrafo primero"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutcaracter",
+      "ValorOriginal": "NACIONAL",
+      "TipoDato": 9,
+      "ValorConvertido": "NACIONAL"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutfecha_convocatoria",
+      "ValorOriginal": "20/04/2026 14:15",
+      "TipoDato": 9,
+      "ValorConvertido": "20/04/2026 14:15"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutfecha_notificacion_adjudica",
+      "ValorOriginal": "22/04/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-04-22T00:00:00"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutes_consolidada",
+      "ValorOriginal": "No",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutdependencia_contratante",
+      "ValorOriginal": "080V11 - INSTITUTO TECNOLÓGICO SUPERIOR DE ATLIXCO",
+      "TipoDato": 9,
+      "ValorConvertido": "080V11 - INSTITUTO TECNOLÓGICO SUPERIOR DE ATLIXCO"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutunidad_compradora",
+      "ValorOriginal": "V11 - INSTITUTO TECNOLÓGICO SUPERIOR DE ATLIXCO",
+      "TipoDato": 9,
+      "ValorConvertido": "V11 - INSTITUTO TECNOLÓGICO SUPERIOR DE ATLIXCO"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutunidad_requirente",
+      "ValorOriginal": "921079942 - SUDIRECCIÓN DE SERVICIOS ADMINISTRATIVOS",
+      "TipoDato": 9,
+      "ValorConvertido": "921079942 - SUDIRECCIÓN DE SERVICIOS ADMINISTRATIVOS"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutnum_control_interno",
+      "ValorOriginal": "ITSA/04-04-2026",
+      "TipoDato": 9,
+      "ValorConvertido": "ITSA/04-04-2026"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutfecha_inicial",
+      "ValorOriginal": "23/04/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-04-23T00:00:00"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutfecha_final",
+      "ValorOriginal": "31/12/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-12-31T00:00:00"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutfecha_formalizacion",
+      "ValorOriginal": "23/04/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-04-23T00:00:00"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPuttitulo_contrato",
+      "ValorOriginal": "SERVICIO DE CONECTIVIDAD Y TRANSPORTE DE DATOS (INTERNET) EJERCICIO FISCAL 2026.",
+      "TipoDato": 9,
+      "ValorConvertido": "SERVICIO DE CONECTIVIDAD Y TRANSPORTE DE DATOS (INTERNET) EJERCICIO FISCAL 2026."
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutdescripcion_contrato",
+      "ValorOriginal": "CONTAR CON SERVICIO DE CONECTIVIDAD ES UNA NECESIDAD PARA GARANTIZAR EL ADECUADO FUNCIONAMIENTO DE DIVERSA ACTIVIDADES ACADÉMICAS Y ADMINISTRATIVAS.",
+      "TipoDato": 9,
+      "ValorConvertido": "CONTAR CON SERVICIO DE CONECTIVIDAD ES UNA NECESIDAD PARA GARANTIZAR EL ADECUADO FUNCIONAMIENTO DE DIVERSA ACTIVIDADES ACADÉMICAS Y ADMINISTRATIVAS."
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPuttipo_contrato",
+      "ValorOriginal": "CERRADO",
+      "TipoDato": 9,
+      "ValorConvertido": "CERRADO"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutmonto_minimo",
+      "ValorOriginal": "$291,724.14",
+      "TipoDato": 9,
+      "ValorConvertido": "$291,724.14"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutmoneda",
+      "ValorOriginal": "PESO MEXICANO",
+      "TipoDato": 9,
+      "ValorConvertido": "PESO MEXICANO"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutplurianual",
+      "ValorOriginal": "NO",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutcurrency-us",
+      "ValorOriginal": "$291,724.14",
+      "TipoDato": 9,
+      "ValorConvertido": "$291,724.14"
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutppi",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutgarantia_cumplimiento",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutgarantia_bien_servicio",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutgarantia_anticipo",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutseguros",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutmetakeyaoga011022uja",
+      "ValorOriginal": "true",
+      "TipoDato": 8,
+      "ValorConvertido": true
+    },
+    {
+      "Panel": "Información General",
+      "Nombre": "InPutley29",
+      "ValorOriginal": "No",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Programa de Entregables",
+      "Nombre": "InPuttipo_contrato",
+      "ValorOriginal": "CERRADO",
+      "TipoDato": 9,
+      "ValorConvertido": "CERRADO"
+    },
+    {
+      "Panel": "Programa de Entregables",
+      "Nombre": "InPutmonto_minimo_sin_impuestos",
+      "ValorOriginal": "$291,724.14",
+      "TipoDato": 9,
+      "ValorConvertido": "$291,724.14"
+    },
+    {
+      "Panel": "Programa de Entregables",
+      "Nombre": "InPutmoneda",
+      "ValorOriginal": "PESO MEXICANO",
+      "TipoDato": 9,
+      "ValorConvertido": "PESO MEXICANO"
+    }
+  ],
+  "TablasExtraidas": [
+    {
+      "Titulo": "Partidas especificas del contrato;Núm.|Clave|Descripción",
+      "Filas": [
+        {
+          "Núm.": "1",
+          "Clave": "31701",
+          "Descripción": "SERVICIOS DE CONDUCCIÓN DE SEÑALES ANALÓGICAS Y DIGITALES"
+        }
+      ]
+    },
+    {
+      "Titulo": "Partidas especificas del contrato;Tipo de documento|Nombre|Acciones",
+      "Filas": [
+        {
+          "Tipo de documento": "CONTRATO",
+          "Nombre": "2026-A-A-NAC-A-C-80-V11-00024936.pdf",
+          "Acciones": ""
+        },
+        {
+          "Tipo de documento": "ANEXO: ANEXO TÉCNICO",
+          "Nombre": "ANEXTECNIINTR.pdf",
+          "Acciones": ""
+        },
+        {
+          "Tipo de documento": "VERSIÓN PÚBLICA",
+          "Nombre": "CInternet_Test.pdf",
+          "Acciones": ""
+        }
+      ]
+    },
+    {
+      "Titulo": "SUFICIENCIA PRESUPUESTAL;Núm.|Origen|Convenio|Ejercicio|Monto suficiencia con impuestos en MXN|Fecha suficiencia|Documento de suficiencia",
+      "Filas": [
+        {
+          "Núm.": "1",
+          "Origen": "CONTRATO",
+          "Convenio": "",
+          "Ejercicio": "2026",
+          "Monto suficiencia con impuestos en MXN": "$338,400.00",
+          "Fecha suficiencia": "16/04/2026",
+          "Documento de suficiencia": ""
+        }
+      ]
+    },
+    {
+      "Titulo": "SUFICIENCIA PRESUPUESTAL;Núm.|Clave|Descripción|Monto sin impuesto en MXN",
+      "Filas": [
+        {
+          "Núm.": "1",
+          "Clave": "31701",
+          "Descripción": "SERVICIOS DE CONDUCCIÓN DE SEÑALES ANALÓGICAS Y DIGITALES",
+          "Monto sin impuesto en MXN": "$291,724.14"
+        }
+      ]
+    },
+    {
+      "Titulo": "SANCIONES;Tipo de sanción|Concepto|Sanción aplicable|Origen|Acciones",
+      "Filas": []
+    },
+    {
+      "Titulo": "INFORMACIÓN DE CONVENIOS;Núm. convenio|Tipo solicitud|Fecha formalización|Fecha inicial|Fecha final|Monto total\r\nsin impuestos|Monto total\r\ncon impuestos|Estatus|Anexos",
+      "Filas": []
+    },
+    {
+      "Titulo": "ADMINISTRADOR DEL CONTRATO;Ramo|Unidad|RFC|Nombre|Puesto|Estatus|Origen|Rol|Principal",
+      "Filas": [
+        {
+          "Ramo": "80",
+          "Unidad": "V11",
+          "RFC": "AOGA011022UJA",
+          "Nombre": "ANA KAREN ALONSO GONZÁLEZ",
+          "Puesto": "E.D DE DEPARTAMENTO DE RECURSOS MATERIALES Y SERVICIOS",
+          "Estatus": "ACTIVO",
+          "Origen": "SEGUIMIENTO",
+          "Rol": "Administrador de contrato, Firmante",
+          "Principal": "true"
+        }
+      ]
+    },
+    {
+      "Titulo": "La oferta ganadora del procedimiento fue una propuesta conjunta;RFC|Razón social|Representante legal|Giro|SAT|IMSS|INFONAVIT|Fecha|Documento|Fecha|Documento|Fecha|Documento",
+      "Filas": []
+    },
+    {
+      "Titulo": "Partidas especificas del contrato;Núm.|Clave|Descripción",
+      "Filas": [
+        {
+          "Núm.": "1",
+          "Clave": "31701",
+          "Descripción": "SERVICIOS DE CONDUCCIÓN DE SEÑALES ANALÓGICAS Y DIGITALES"
+        }
+      ]
+    },
+    {
+      "Titulo": "Partidas especificas del contrato;Tipo de documento|Nombre|Acciones",
+      "Filas": [
+        {
+          "Tipo de documento": "CONTRATO",
+          "Nombre": "2026-A-A-NAC-A-C-80-V11-00024936.pdf",
+          "Acciones": ""
+        },
+        {
+          "Tipo de documento": "ANEXO: ANEXO TÉCNICO",
+          "Nombre": "ANEXTECNIINTR.pdf",
+          "Acciones": ""
+        },
+        {
+          "Tipo de documento": "VERSIÓN PÚBLICA",
+          "Nombre": "CInternet_Test.pdf",
+          "Acciones": ""
+        }
+      ]
+    },
+    {
+      "Titulo": "SUFICIENCIA PRESUPUESTAL;Núm.|Origen|Convenio|Ejercicio|Monto suficiencia con impuestos en MXN|Fecha suficiencia|Documento de suficiencia",
+      "Filas": [
+        {
+          "Núm.": "1",
+          "Origen": "CONTRATO",
+          "Convenio": "",
+          "Ejercicio": "2026",
+          "Monto suficiencia con impuestos en MXN": "$338,400.00",
+          "Fecha suficiencia": "16/04/2026",
+          "Documento de suficiencia": ""
+        }
+      ]
+    },
+    {
+      "Titulo": "SUFICIENCIA PRESUPUESTAL;Núm.|Clave|Descripción|Monto sin impuesto en MXN",
+      "Filas": [
+        {
+          "Núm.": "1",
+          "Clave": "31701",
+          "Descripción": "SERVICIOS DE CONDUCCIÓN DE SEÑALES ANALÓGICAS Y DIGITALES",
+          "Monto sin impuesto en MXN": "$291,724.14"
+        }
+      ]
+    },
+    {
+      "Titulo": "SANCIONES;Tipo de sanción|Concepto|Sanción aplicable|Origen|Acciones",
+      "Filas": []
+    },
+    {
+      "Titulo": "INFORMACIÓN DE CONVENIOS;Núm. convenio|Tipo solicitud|Fecha formalización|Fecha inicial|Fecha final|Monto total\r\nsin impuestos|Monto total\r\ncon impuestos|Estatus|Anexos",
+      "Filas": []
+    },
+    {
+      "Titulo": "ADMINISTRADOR DEL CONTRATO;Ramo|Unidad|RFC|Nombre|Puesto|Estatus|Origen|Rol|Principal",
+      "Filas": [
+        {
+          "Ramo": "80",
+          "Unidad": "V11",
+          "RFC": "AOGA011022UJA",
+          "Nombre": "ANA KAREN ALONSO GONZÁLEZ",
+          "Puesto": "E.D DE DEPARTAMENTO DE RECURSOS MATERIALES Y SERVICIOS",
+          "Estatus": "ACTIVO",
+          "Origen": "SEGUIMIENTO",
+          "Rol": "Administrador de contrato, Firmante",
+          "Principal": "true"
+        }
+      ]
+    },
+    {
+      "Titulo": "La oferta ganadora del procedimiento fue una propuesta conjunta;RFC|Razón social|Representante legal|Giro|SAT|IMSS|INFONAVIT|Fecha|Documento|Fecha|Documento|Fecha|Documento",
+      "Filas": []
+    },
+    {
+      "Titulo": "La oferta ganadora del procedimiento fue una propuesta conjunta;RFC|Razón social|Representante legal|Giro|SAT|IMSS|INFONAVIT|Fecha|Documento|Fecha|Documento|Fecha|Documento",
+      "Filas": []
+    },
+    {
+      "Titulo": "CUCoP;Partida|Clave CUCoP|Descripción|Unidad de medida|Precio unitario|Cantidad|Precio Total sin impuestos",
+      "Filas": [
+        {
+          "Partida": "31701",
+          "Clave CUCoP": "31701-0003",
+          "Descripción": "SERVICIO DE INTERNET DEDICADO SIMÉTRICO DE 1 GB POR SEGUNDO PARA EL EJERCICIO FISCAL 2026",
+          "Unidad de medida": "SERVICIO",
+          "Precio unitario": "$291,724.14",
+          "Cantidad": "1",
+          "Precio Total sin impuestos": "$291,724.14"
+        }
+      ]
+    },
+    {
+      "Titulo": "Moneda;Detalle|ID entregable|Descripción del entregable|Proveedor|Administrador del entregable|Monto sin impuestos programado|Cantidad total programada|Fecha entrega programada|Entregas reportadas|Acciones",
+      "Filas": [
+        {
+          "Detalle": "",
+          "ID entregable": "7",
+          "Descripción del entregable": "REPORTE DE SERVICIO ENE ABR 2026",
+          "Proveedor": "MT NETWORKS S DE RL DE CV",
+          "Administrador del entregable": "ANA KAREN ALONSO GONZÁLEZ",
+          "Monto sin impuestos programado": "$97,241.38",
+          "Cantidad total programada": "1",
+          "Fecha entrega programada": "07/05/2026",
+          "Entregas reportadas": "1",
+          "Acciones": ""
+        },
+        {
+          "Detalle": "",
+          "ID entregable": "8",
+          "Descripción del entregable": "REPORTE DE SERVICIO DEL MES DE MAYO 2026",
+          "Proveedor": "MT NETWORKS S DE RL DE CV",
+          "Administrador del entregable": "ANA KAREN ALONSO GONZÁLEZ",
+          "Monto sin impuestos programado": "$24,310.34",
+          "Cantidad total programada": "1",
+          "Fecha entrega programada": "02/06/2026",
+          "Entregas reportadas": "1",
+          "Acciones": ""
+        }
+      ]
+    },
+    {
+      "Titulo": "Sanciones Aplicadas;Núm.|Tipo de sanción|Concepto|Sanción aplicable|Importe|Aplicado|Acciones",
+      "Filas": []
+    },
+    {
+      "Titulo": "Facturas;Núm.|Folio fiscal|Proveedor|RFC Emisor|RFC Receptor|Monto sin impuestos|Monto con impuestos|Fecha emisión|Estatus|Acciones",
+      "Filas": [
+        {
+          "Núm.": "1",
+          "Folio fiscal": "6E1481CF-55F2-4FF2-ADF5-99620945F991",
+          "Proveedor": "MT NETWORKS",
+          "RFC Emisor": "MNE1808086D7",
+          "RFC Receptor": "ITS980901K39",
+          "Monto sin impuestos": "$24,310.34",
+          "Monto con impuestos": "$28,200.00",
+          "Fecha emisión": "01/06/2026",
+          "Estatus": "PAGADA",
+          "Acciones": ""
+        },
+        {
+          "Núm.": "2",
+          "Folio fiscal": "7F455B16-D8C5-4CEA-A0BA-D3B5F68243EA",
+          "Proveedor": "MT NETWORKS",
+          "RFC Emisor": "MNE1808086D7",
+          "RFC Receptor": "ITS980901K39",
+          "Monto sin impuestos": "$97,241.38",
+          "Monto con impuestos": "$112,800.00",
+          "Fecha emisión": "05/05/2026",
+          "Estatus": "PAGADA",
+          "Acciones": ""
+        }
+      ]
+    },
+    {
+      "Titulo": "Registro de Pagos;Facturas registradas|Pagos registrados|Monto total con\r\nimpuestos facturado en MXN|Monto con registro\r\nde pago en MXN|Porcentaje pagado",
+      "Filas": [
+        {
+          "Facturas registradas": "2",
+          "Pagos registrados": "2",
+          "Monto total con\r\nimpuestos facturado en MXN": "$141,000.00",
+          "Monto con registro\r\nde pago en MXN": "$141,000.00",
+          "Porcentaje pagado": "100.0 %"
+        }
+      ]
+    },
+    {
+      "Titulo": "100.0 %;Núm.|Proveedor|Facturas registradas|Monto total con impuestos facturado|Monto del pago sin impuestos|Monto del pago con impuestos|Moneda|Tipo de cambio|Monto del pago con impuestos en MXN|Fecha de pago|Acciones",
+      "Filas": [
+        {
+          "Núm.": "1",
+          "Proveedor": "MT NETWORKS",
+          "Facturas registradas": "1",
+          "Monto total con impuestos facturado": "$112,800.00",
+          "Monto del pago sin impuestos": "$97,241.38",
+          "Monto del pago con impuestos": "$112,800.00",
+          "Moneda": "PESO MEXICANO",
+          "Tipo de cambio": "1.0",
+          "Monto del pago con impuestos en MXN": "$112,800.00",
+          "Fecha de pago": "08/05/2026",
+          "Acciones": ""
+        },
+        {
+          "Núm.": "2",
+          "Proveedor": "MT NETWORKS",
+          "Facturas registradas": "1",
+          "Monto total con impuestos facturado": "$28,200.00",
+          "Monto del pago sin impuestos": "$24,310.34",
+          "Monto del pago con impuestos": "$28,200.00",
+          "Moneda": "PESO MEXICANO",
+          "Tipo de cambio": "1.0",
+          "Monto del pago con impuestos en MXN": "$28,200.00",
+          "Fecha de pago": "03/06/2026",
+          "Acciones": ""
+        }
+      ]
+    },
+    {
+      "Titulo": "100.0 %;Núm.|Folio fiscal factura|Folio fiscal Nota de crédito|Monto|Acciones",
+      "Filas": []
+    },
+    {
+      "Titulo": "100.0 %;Núm.|Descripción|Monto|Acciones",
+      "Filas": []
+    },
+    {
+      "Titulo": "Bitácora de Alertas;Código contrato|Sección|Título|Detalle|Estatus|Fecha de creación|Acciones",
+      "Filas": [
+        {
+          "Código contrato": "C-2026-00030918",
+          "Sección": "REGISTRO CONTRATO",
+          "Título": "FECHA DE CUMPLIMIENTO DE OBLIGACIONES (IMSS)",
+          "Detalle": "FECHAS DE CUMPLIMIENTO DE OBLIGACIONES (IMSS) MAYOR A LA FEC...",
+          "Estatus": "PENDIENTE",
+          "Fecha de creación": "09/05/2026",
+          "Acciones": ""
+        },
+        {
+          "Código contrato": "C-2026-00030918",
+          "Sección": "REGISTRO CONTRATO",
+          "Título": "FECHA DE CUMPLIMIENTO DE OBLIGACIONES (INFONAVIT)",
+          "Detalle": "FECHAS DE CUMPLIMIENTO DE OBLIGACIONES (INFONAVIT) MAYOR A L...",
+          "Estatus": "PENDIENTE",
+          "Fecha de creación": "09/05/2026",
+          "Acciones": ""
+        }
+      ]
+    },
+    {
+      "Titulo": "Descarga BESA;Núm.|Fecha de solicitud|Fecha última descarga|Estatus|Total de archivos|Archivos procesados|Acciones",
+      "Filas": []
+    }
+  ]
+}

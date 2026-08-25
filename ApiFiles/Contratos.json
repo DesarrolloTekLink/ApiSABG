@@ -1,0 +1,775 @@
+{
+  "Contrato": {
+    "Codigodelexpediente": "E-2026-00036185",
+    "NombreelExpediente": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE A TRAVÉS DE MONEDEROS ELECTRÓNICOS",
+    "fechadecreaciondelexpediente": "13/04/2026 13:42",
+    "EstatusdelExpediente": "VIGENTE",
+    "requerimientodecontratacion": "FINALIZADO",
+    "proyectodeconvocatoria": "",
+    "Estatusdelultimoprocedimiento": "ADJUDICADO",
+    "noprocedimientos": "1",
+    "datosreelevantesdelcontrato": "1"
+  },
+  "ListaInputsInfo": [
+    {
+      "Panel": "Detalle de expediente",
+      "Nombre": "InPutcodigo",
+      "ValorOriginal": "E-2026-00036185",
+      "TipoDato": 9,
+      "ValorConvertido": "E-2026-00036185"
+    },
+    {
+      "Panel": "Detalle de expediente",
+      "Nombre": "InPutnombreResponsable",
+      "ValorOriginal": "DIANA LAURA UGALDE MONTOYA",
+      "TipoDato": 9,
+      "ValorConvertido": "DIANA LAURA UGALDE MONTOYA"
+    },
+    {
+      "Panel": "Detalle de expediente",
+      "Nombre": "InPutfechaCreacion",
+      "ValorOriginal": "13/04/2026 13:42",
+      "TipoDato": 9,
+      "ValorConvertido": "13/04/2026 13:42"
+    },
+    {
+      "Panel": "Detalle de expediente",
+      "Nombre": "InPutnombreRamo",
+      "ValorOriginal": "80 - PUEBLA",
+      "TipoDato": 9,
+      "ValorConvertido": "80 - PUEBLA"
+    },
+    {
+      "Panel": "Detalle de expediente",
+      "Nombre": "InPutnombreDependencia",
+      "ValorOriginal": "080002 - UNIVERSIDAD TECNOLÓGICA BILINGÜE INTERNACIONAL Y SUSTENTABLE DE PUEBLA",
+      "TipoDato": 9,
+      "ValorConvertido": "080002 - UNIVERSIDAD TECNOLÓGICA BILINGÜE INTERNACIONAL Y SUSTENTABLE DE PUEBLA"
+    },
+    {
+      "Panel": "Detalle de expediente",
+      "Nombre": "InPutnombreUnidadCompradora",
+      "ValorOriginal": "921081939 - SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS",
+      "TipoDato": 9,
+      "ValorConvertido": "921081939 - SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS"
+    },
+    {
+      "Panel": "Detalle de expediente",
+      "Nombre": "InPutnumeroControlInterno",
+      "ValorOriginal": "RUTBIS AD/006-FED/2026",
+      "TipoDato": 9,
+      "ValorConvertido": "RUTBIS AD/006-FED/2026"
+    },
+    {
+      "Panel": "Detalle de expediente",
+      "Nombre": "InPutnombreExpediente",
+      "ValorOriginal": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE A TRAVÉS DE MONEDEROS ELECTRÓNICOS",
+      "TipoDato": 9,
+      "ValorConvertido": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE A TRAVÉS DE MONEDEROS ELECTRÓNICOS"
+    },
+    {
+      "Panel": "Detalle de expediente",
+      "Nombre": "pdropdownley",
+      "ValorOriginal": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO",
+      "TipoDato": 9,
+      "ValorConvertido": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO"
+    },
+    {
+      "Panel": "Detalle de expediente",
+      "Nombre": "pdropdowncompraConsolidada",
+      "ValorOriginal": "NO",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "DATOS DEL ENTE CONTRATANTE",
+      "Nombre": "InPutresponsableCaptura",
+      "ValorOriginal": "DIANA LAURA UGALDE MONTOYA",
+      "TipoDato": 9,
+      "ValorConvertido": "DIANA LAURA UGALDE MONTOYA"
+    },
+    {
+      "Panel": "DATOS DEL ENTE CONTRATANTE",
+      "Nombre": "InPutcorreoUnidadCompradora",
+      "ValorOriginal": "DIANA.UGALDE96@UTBISPUEBLA.EDU.MX",
+      "TipoDato": 9,
+      "ValorConvertido": "DIANA.UGALDE96@UTBISPUEBLA.EDU.MX"
+    },
+    {
+      "Panel": "DATOS DEL ENTE CONTRATANTE",
+      "Nombre": "InPutfechaCreacion",
+      "ValorOriginal": "13/04/2026 16:14",
+      "TipoDato": 9,
+      "ValorConvertido": "13/04/2026 16:14"
+    },
+    {
+      "Panel": "DATOS DEL ENTE CONTRATANTE",
+      "Nombre": "InPut",
+      "ValorOriginal": "80 - PUEBLA",
+      "TipoDato": 9,
+      "ValorConvertido": "80 - PUEBLA"
+    },
+    {
+      "Panel": "DATOS DEL ENTE CONTRATANTE",
+      "Nombre": "InPut5",
+      "ValorOriginal": "080002 - UNIVERSIDAD TECNOLÓGICA BILINGÜE INTERNACIONAL Y SUSTENTABLE DE PUEBLA",
+      "TipoDato": 9,
+      "ValorConvertido": "080002 - UNIVERSIDAD TECNOLÓGICA BILINGÜE INTERNACIONAL Y SUSTENTABLE DE PUEBLA"
+    },
+    {
+      "Panel": "DATOS DEL ENTE CONTRATANTE",
+      "Nombre": "InPut6",
+      "ValorOriginal": "921081939 - SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS",
+      "TipoDato": 9,
+      "ValorConvertido": "921081939 - SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS"
+    },
+    {
+      "Panel": "DATOS GENERALES",
+      "Nombre": "InPut",
+      "ValorOriginal": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE A TRAVÉS DE MONEDEROS ELECTRÓNICOS",
+      "TipoDato": 9,
+      "ValorConvertido": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE A TRAVÉS DE MONEDEROS ELECTRÓNICOS"
+    },
+    {
+      "Panel": "DATOS GENERALES",
+      "Nombre": "InPut2",
+      "ValorOriginal": "ADJUDICACIÓN DIRECTA SIN SOLICITUD DE COTIZACIÓN",
+      "TipoDato": 9,
+      "ValorConvertido": "ADJUDICACIÓN DIRECTA SIN SOLICITUD DE COTIZACIÓN"
+    },
+    {
+      "Panel": "DATOS GENERALES",
+      "Nombre": "InPut3",
+      "ValorOriginal": "2026",
+      "TipoDato": 1,
+      "ValorConvertido": 2026
+    },
+    {
+      "Panel": "DATOS GENERALES",
+      "Nombre": "InPuticon",
+      "ValorOriginal": "15/04/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-04-15T00:00:00"
+    },
+    {
+      "Panel": "DATOS GENERALES",
+      "Nombre": "pdropdownSeleccione",
+      "ValorOriginal": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO",
+      "TipoDato": 9,
+      "ValorConvertido": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO"
+    },
+    {
+      "Panel": "DATOS GENERALES",
+      "Nombre": "pdropdownSeleccione1",
+      "ValorOriginal": "ART. 55 PÁRRAFO PRIMERO ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS, DENTRO DE LOS MONTOS MÁXIMOS ESTABLECIDOS EN EL PEF.",
+      "TipoDato": 9,
+      "ValorConvertido": "ART. 55 PÁRRAFO PRIMERO ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS, DENTRO DE LOS MONTOS MÁXIMOS ESTABLECIDOS EN EL PEF."
+    },
+    {
+      "Panel": "DATOS GENERALES",
+      "Nombre": "pdropdownSeleccione1",
+      "ValorOriginal": "NO",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "DATOS GENERALES",
+      "Nombre": "pdropdownSeleccione1",
+      "ValorOriginal": "PUEBLA",
+      "TipoDato": 9,
+      "ValorConvertido": "PUEBLA"
+    },
+    {
+      "Panel": "DATOS GENERALES",
+      "Nombre": "pdropdownSeleccione1",
+      "ValorOriginal": "SI",
+      "TipoDato": 8,
+      "ValorConvertido": true
+    },
+    {
+      "Panel": "DATOS GENERALES",
+      "Nombre": "pdropdownSeleccione1",
+      "ValorOriginal": "MONTO",
+      "TipoDato": 9,
+      "ValorConvertido": "MONTO"
+    },
+    {
+      "Panel": "PRESUPUESTO",
+      "Nombre": "InPutmonto_estimado_sin_iva",
+      "ValorOriginal": "$201,280.00",
+      "TipoDato": 9,
+      "ValorConvertido": "$201,280.00"
+    },
+    {
+      "Panel": "PRESUPUESTO",
+      "Nombre": "pdropdownmoneda_presupuesto",
+      "ValorOriginal": "PESO MEXICANO",
+      "TipoDato": 9,
+      "ValorConvertido": "PESO MEXICANO"
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "InPutresponsableCaptura",
+      "ValorOriginal": "DIANA LAURA UGALDE MONTOYA",
+      "TipoDato": 9,
+      "ValorConvertido": "DIANA LAURA UGALDE MONTOYA"
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "InPutcorreoUnidadCompradora",
+      "ValorOriginal": "DIANA.UGALDE96@UTBISPUEBLA.EDU.MX",
+      "TipoDato": 9,
+      "ValorConvertido": "DIANA.UGALDE96@UTBISPUEBLA.EDU.MX"
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "InPutfechaCreacion",
+      "ValorOriginal": "13/04/2026 16:14",
+      "TipoDato": 9,
+      "ValorConvertido": "13/04/2026 16:14"
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "InPut",
+      "ValorOriginal": "80 - PUEBLA",
+      "TipoDato": 9,
+      "ValorConvertido": "80 - PUEBLA"
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "InPut5",
+      "ValorOriginal": "080002 - UNIVERSIDAD TECNOLÓGICA BILINGÜE INTERNACIONAL Y SUSTENTABLE DE PUEBLA",
+      "TipoDato": 9,
+      "ValorConvertido": "080002 - UNIVERSIDAD TECNOLÓGICA BILINGÜE INTERNACIONAL Y SUSTENTABLE DE PUEBLA"
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "InPut6",
+      "ValorOriginal": "921081939 - SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS",
+      "TipoDato": 9,
+      "ValorConvertido": "921081939 - SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS"
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "InPut7",
+      "ValorOriginal": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE A TRAVÉS DE MONEDEROS ELECTRÓNICOS",
+      "TipoDato": 9,
+      "ValorConvertido": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE A TRAVÉS DE MONEDEROS ELECTRÓNICOS"
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "InPut8",
+      "ValorOriginal": "ADJUDICACIÓN DIRECTA SIN SOLICITUD DE COTIZACIÓN",
+      "TipoDato": 9,
+      "ValorConvertido": "ADJUDICACIÓN DIRECTA SIN SOLICITUD DE COTIZACIÓN"
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "InPut9",
+      "ValorOriginal": "2026",
+      "TipoDato": 1,
+      "ValorConvertido": 2026
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "InPuticon",
+      "ValorOriginal": "15/04/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-04-15T00:00:00"
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "InPutmonto_estimado_sin_iva",
+      "ValorOriginal": "$201,280.00",
+      "TipoDato": 9,
+      "ValorConvertido": "$201,280.00"
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "pdropdownSeleccione",
+      "ValorOriginal": "",
+      "TipoDato": 0,
+      "ValorConvertido": null
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "pdropdownSeleccione1",
+      "ValorOriginal": "",
+      "TipoDato": 0,
+      "ValorConvertido": null
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "pdropdownSeleccione1",
+      "ValorOriginal": "",
+      "TipoDato": 0,
+      "ValorConvertido": null
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "pdropdownSeleccione1",
+      "ValorOriginal": "",
+      "TipoDato": 0,
+      "ValorConvertido": null
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "pdropdownSeleccione1",
+      "ValorOriginal": "",
+      "TipoDato": 0,
+      "ValorConvertido": null
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "pdropdownSeleccione1",
+      "ValorOriginal": "",
+      "TipoDato": 0,
+      "ValorConvertido": null
+    },
+    {
+      "Panel": "Datos Generales",
+      "Nombre": "pdropdownmoneda_presupuesto",
+      "ValorOriginal": "",
+      "TipoDato": 0,
+      "ValorConvertido": null
+    },
+    {
+      "Panel": "Requerimientos",
+      "Nombre": "InPutBuscar",
+      "ValorOriginal": "",
+      "TipoDato": 0,
+      "ValorConvertido": null
+    },
+    {
+      "Panel": "Requerimientos",
+      "Nombre": "pdropdowntipoRequerimiento",
+      "ValorOriginal": "GRUPO",
+      "TipoDato": 9,
+      "ValorConvertido": "GRUPO"
+    },
+    {
+      "Panel": "Requerimiento de contratación",
+      "Nombre": "InPutcodigo_expediente",
+      "ValorOriginal": "E-2026-00036185",
+      "TipoDato": 9,
+      "ValorConvertido": "E-2026-00036185"
+    },
+    {
+      "Panel": "Requerimiento de contratación",
+      "Nombre": "InPut",
+      "ValorOriginal": "RA-2026-00035396",
+      "TipoDato": 9,
+      "ValorConvertido": "RA-2026-00035396"
+    },
+    {
+      "Panel": "Requerimiento de contratación",
+      "Nombre": "InPutestatus",
+      "ValorOriginal": "FINALIZADO",
+      "TipoDato": 9,
+      "ValorConvertido": "FINALIZADO"
+    },
+    {
+      "Panel": "Requerimiento de contratación",
+      "Nombre": "InPutBuscar",
+      "ValorOriginal": "",
+      "TipoDato": 0,
+      "ValorConvertido": null
+    },
+    {
+      "Panel": "Requerimiento de contratación",
+      "Nombre": "pdropdowntipoRequerimiento",
+      "ValorOriginal": "GRUPO",
+      "TipoDato": 9,
+      "ValorConvertido": "GRUPO"
+    },
+    {
+      "Panel": "Procedimientos de contratación",
+      "Nombre": "pdropdownsin-nombre",
+      "ValorOriginal": "10",
+      "TipoDato": 1,
+      "ValorConvertido": 10
+    },
+    {
+      "Panel": "Bitácora de acciones",
+      "Nombre": "InPutBuscar",
+      "ValorOriginal": "",
+      "TipoDato": 0,
+      "ValorConvertido": null
+    }
+  ],
+  "TablasExtraidas": [
+    {
+      "Titulo": "Unidad Compradora  ;Unidades Requirentes",
+      "Filas": [
+        {
+          "Unidades Requirentes": "921081939 - SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS"
+        }
+      ]
+    },
+    {
+      "Titulo": "Unidad compradora *;Unidades Requirentes",
+      "Filas": [
+        {
+          "Unidades Requirentes": "921081939 - SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS"
+        }
+      ]
+    },
+    {
+      "Titulo": "Con la opción seleccionada deberá registrar lo siguiente:;Clave|Descripción partida específica",
+      "Filas": [
+        {
+          "Clave": "26102",
+          "Descripción partida específica": "COMBUSTIBLES, LUBRICANTES Y ADITIVOS PARA VEHÍCULOS TERRESTRES, AÉREOS, MARÍTIMOS, LACUSTRES Y FLUVIALES DESTINADOS A SERVICIOS PÚBLICOS Y LA OPERACIÓN DE PROGRAMAS PÚBLICOS"
+        },
+        {
+          "Clave": "34101",
+          "Descripción partida específica": "SERVICIOS BANCARIOS Y FINANCIEROS"
+        }
+      ]
+    },
+    {
+      "Titulo": "Documento de suficiencia presupuestaria o autorización presupuestal;Núm.|Tipo de documento|Acciones",
+      "Filas": [
+        {
+          "Núm.": "1",
+          "Tipo de documento": "DOCUMENTO SUFICIENCIA *",
+          "Acciones": ""
+        }
+      ]
+    },
+    {
+      "Titulo": "ANEXOS;Núm.|Tipo de documento|Descripción|Acciones",
+      "Filas": [
+        {
+          "Núm.": "1",
+          "Tipo de documento": "ANEXO TÉCNICO *",
+          "Descripción": "ANEXO TÉCNICO",
+          "Acciones": ""
+        },
+        {
+          "Núm.": "2",
+          "Tipo de documento": "ANEXOS REQUERIMIENTO DE CONTRATACIÓN",
+          "Descripción": "REQUISICIÓN",
+          "Acciones": ""
+        }
+      ]
+    },
+    {
+      "Titulo": "Datos Generales;Núm.|Tipo de documento|Descripción|Acciones",
+      "Filas": [
+        {
+          "Núm.": "1",
+          "Tipo de documento": "ANEXO TÉCNICO *",
+          "Descripción": "ANEXO TÉCNICO",
+          "Acciones": ""
+        },
+        {
+          "Núm.": "2",
+          "Tipo de documento": "ANEXOS REQUERIMIENTO DE CONTRATACIÓN",
+          "Descripción": "REQUISICIÓN",
+          "Acciones": ""
+        }
+      ]
+    },
+    {
+      "Titulo": "Requerimiento por *    ;Núm.|Partida específica|Clave CUCoP\u002B|Descripción CUCoP\u002B|Descripción detallada|Unidad de medida|Monto mínimo|Monto máximo|PAAASOP",
+      "Filas": [
+        {
+          "Núm.": "1",
+          "Partida específica": "34101",
+          "Clave CUCoP\u002B": "34101-0002",
+          "Descripción CUCoP\u002B": "SERVICIOS BANCARIOS Y FINANCIEROS",
+          "Descripción detallada": "COMISIÓN DEL 0.64% POR CONCEPTO DE USO Y MANEJO DE MONEDEROS ELECTRÓNICOS.",
+          "Unidad de medida": "SERVICIO",
+          "Monto mínimo": "$593.92",
+          "Monto máximo": "$1,484.80",
+          "PAAASOP": "No"
+        },
+        {
+          "Núm.": "2",
+          "Partida específica": "26102",
+          "Clave CUCoP\u002B": "26102-0013",
+          "Descripción CUCoP\u002B": "GASOLINA",
+          "Descripción detallada": "SUMINISTRO DE COMBUSTIBLE ATRAVÉS DE MONEDEROS ELECTRÓNICOS",
+          "Unidad de medida": "SERVICIO",
+          "Monto mínimo": "$80,000.00",
+          "Monto máximo": "$200,000.00",
+          "PAAASOP": "No"
+        }
+      ]
+    },
+    {
+      "Titulo": "Requerimiento por *    ;Núm.|Partida específica|Clave CUCoP\u002B|Descripción CUCoP\u002B|Descripción detallada|Unidad de medida|Monto mínimo|Monto máximo|PAAASOP",
+      "Filas": [
+        {
+          "Núm.": "1",
+          "Partida específica": "34101",
+          "Clave CUCoP\u002B": "34101-0002",
+          "Descripción CUCoP\u002B": "SERVICIOS BANCARIOS Y FINANCIEROS",
+          "Descripción detallada": "COMISIÓN DEL 0.64% POR CONCEPTO DE USO Y MANEJO DE MONEDEROS ELECTRÓNICOS.",
+          "Unidad de medida": "SERVICIO",
+          "Monto mínimo": "$593.92",
+          "Monto máximo": "$1,484.80",
+          "PAAASOP": "No"
+        },
+        {
+          "Núm.": "2",
+          "Partida específica": "26102",
+          "Clave CUCoP\u002B": "26102-0013",
+          "Descripción CUCoP\u002B": "GASOLINA",
+          "Descripción detallada": "SUMINISTRO DE COMBUSTIBLE ATRAVÉS DE MONEDEROS ELECTRÓNICOS",
+          "Unidad de medida": "SERVICIO",
+          "Monto mínimo": "$80,000.00",
+          "Monto máximo": "$200,000.00",
+          "PAAASOP": "No"
+        }
+      ]
+    },
+    {
+      "Titulo": "Procedimientos de contratación;Núm.|Código de procedimiento|Número de procedimiento|Nombre del procedimiento|Código del Expediente|Responsable del expediente|Estatus|Fecha y hora de apertura de proposiciones",
+      "Filas": [
+        {
+          "Núm.": "1",
+          "Código de procedimiento": "P-2026-00027091",
+          "Número de procedimiento": "AA-80-002-921081939-N-2-2026",
+          "Nombre del procedimiento": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE A TRAVÉS DE MONEDEROS ELECTRÓNICOS",
+          "Código del Expediente": "E-2026-00036185",
+          "Responsable del expediente": "DIANA LAURA UGALDE MONTOYA",
+          "Estatus": "ADJUDICADO",
+          "Fecha y hora de apertura de proposiciones": ""
+        }
+      ]
+    },
+    {
+      "Titulo": "Datos relevantes del contrato;Código del Contrato|Número de contrato (Asignado por la Institución)|Titulo|Código del Expediente|Número de procedimiento|Proveedor o Contratista|Estatus del Contrato|Estatus del Contrato en MFIJ|Fecha de inicio|Fecha de fin o de expiracion|Total valor del Contrato|Moneda",
+      "Filas": [
+        {
+          "Código del Contrato": "C-2026-00028803",
+          "Número de contrato (Asignado por la Institución)": "RUTBIS AD/006-FED/2026",
+          "Titulo": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE A TRAVÉS DE MONEDEROS ELECTRÓNICOS",
+          "Código del Expediente": "E-2026-00036185",
+          "Número de procedimiento": "AA-80-002-921081939-N-2-2026",
+          "Proveedor o Contratista": "SI VALE MEXICO SA DE CV",
+          "Estatus del Contrato": "PUBLICADO",
+          "Estatus del Contrato en MFIJ": "FORMALIZADO",
+          "Fecha de inicio": "15/04/2026",
+          "Fecha de fin o de expiracion": "31/12/2026",
+          "Total valor del Contrato": "$201,280.00",
+          "Moneda": "MXN"
+        }
+      ]
+    },
+    {
+      "Titulo": "Bitácora de acciones;Núm.|Usuario|Rol|Elemento|Fecha (creación)|Acciones|Detalle",
+      "Filas": [
+        {
+          "Núm.": "1",
+          "Usuario": "DIANA LAURA UGALDE",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "PROCEDIMIENTO",
+          "Fecha (creación)": "15/04/2026 14:37",
+          "Acciones": "ACUSE",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "2",
+          "Usuario": "DIANA LAURA UGALDE",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "PROCEDIMIENTO",
+          "Fecha (creación)": "15/04/2026 14:37",
+          "Acciones": "PUBLICAR DATOS RELEVANTES CONTRATO",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "3",
+          "Usuario": "DIANA LAURA UGALDE",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "PROCEDIMIENTO",
+          "Fecha (creación)": "14/04/2026 16:30",
+          "Acciones": "ACUSE",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "4",
+          "Usuario": "DIANA LAURA UGALDE",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "PROCEDIMIENTO",
+          "Fecha (creación)": "14/04/2026 16:30",
+          "Acciones": "SE ACTUALIZA ESTATUS",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "5",
+          "Usuario": "DIANA LAURA UGALDE",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "PROCEDIMIENTO",
+          "Fecha (creación)": "14/04/2026 16:30",
+          "Acciones": "AUTORIZAR ADJUDICACIÓN",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "6",
+          "Usuario": "DIANA LAURA UGALDE",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "PROCEDIMIENTO",
+          "Fecha (creación)": "14/04/2026 16:29",
+          "Acciones": "SE ACTUALIZA ESTATUS",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "7",
+          "Usuario": "DIANA LAURA UGALDE",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "PROCEDIMIENTO",
+          "Fecha (creación)": "14/04/2026 12:51",
+          "Acciones": "ACUSE",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "8",
+          "Usuario": "DIANA LAURA UGALDE",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "PROCEDIMIENTO",
+          "Fecha (creación)": "14/04/2026 12:51",
+          "Acciones": "SE ACTUALIZA ESTATUS",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "9",
+          "Usuario": "DIANA LAURA UGALDE",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "PROCEDIMIENTO",
+          "Fecha (creación)": "14/04/2026 12:51",
+          "Acciones": "SOLICITAR CONFIRMACIÓN DE COTIZACIÓN",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "10",
+          "Usuario": "DIANA LAURA UGALDE",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "PROCEDIMIENTO",
+          "Fecha (creación)": "14/04/2026 12:51",
+          "Acciones": "GUARDAR",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "11",
+          "Usuario": "DIANA LAURA UGALDE",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "PROCEDIMIENTO",
+          "Fecha (creación)": "13/04/2026 16:59",
+          "Acciones": "GUARDAR",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "12",
+          "Usuario": "DIANA LAURA UGALDE",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "PROCEDIMIENTO",
+          "Fecha (creación)": "13/04/2026 16:58",
+          "Acciones": "AGREGAR COTIZANTE",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "13",
+          "Usuario": "DIANA LAURA UGALDE",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "PROCEDIMIENTO",
+          "Fecha (creación)": "13/04/2026 16:57",
+          "Acciones": "GENERAR NUMERO DE PROCEDIMIENTO",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "14",
+          "Usuario": "DIANA LAURA UGALDE",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "PROCEDIMIENTO",
+          "Fecha (creación)": "13/04/2026 16:57",
+          "Acciones": "GUARDAR",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "15",
+          "Usuario": "DIANA LAURA UGALDE",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "PROCEDIMIENTO",
+          "Fecha (creación)": "13/04/2026 16:57",
+          "Acciones": "GUARDAR",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "16",
+          "Usuario": "DIANA LAURA UGALDE",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "PROCEDIMIENTO",
+          "Fecha (creación)": "13/04/2026 16:56",
+          "Acciones": "GUARDAR",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "17",
+          "Usuario": "DIANA LAURA UGALDE",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "PROCEDIMIENTO",
+          "Fecha (creación)": "13/04/2026 16:48",
+          "Acciones": "SE CREA ELEMENTO",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "18",
+          "Usuario": "DIANA LAURA UGALDE MONTOYA",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "REQUERIMIENTO_CONTRATACION",
+          "Fecha (creación)": "13/04/2026 16:19",
+          "Acciones": "ACUSE",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "19",
+          "Usuario": "DIANA LAURA UGALDE MONTOYA",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "REQUERIMIENTO_CONTRATACION",
+          "Fecha (creación)": "13/04/2026 16:19",
+          "Acciones": "SE ACTUALIZA ESTATUS",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "20",
+          "Usuario": "DIANA LAURA UGALDE MONTOYA",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "REQUERIMIENTO_CONTRATACION",
+          "Fecha (creación)": "13/04/2026 16:19",
+          "Acciones": "SE AUTORIZA SOLICITUD",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "21",
+          "Usuario": "DIANA LAURA UGALDE MONTOYA",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "REQUERIMIENTO_CONTRATACION",
+          "Fecha (creación)": "13/04/2026 15:27",
+          "Acciones": "SE CREA ELEMENTO",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "22",
+          "Usuario": "DIANA LAURA UGALDE MONTOYA",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "EXPEDIENTE",
+          "Fecha (creación)": "13/04/2026 15:27",
+          "Acciones": "SE ACTUALIZA ESTATUS",
+          "Detalle": ""
+        },
+        {
+          "Núm.": "23",
+          "Usuario": "DIANA LAURA UGALDE MONTOYA",
+          "Rol": "ADMINISTRADOR DE UNIDAD COMPRADORA",
+          "Elemento": "EXPEDIENTE",
+          "Fecha (creación)": "13/04/2026 13:42",
+          "Acciones": "SE CREA ELEMENTO",
+          "Detalle": ""
+        }
+      ]
+    }
+  ]
+}

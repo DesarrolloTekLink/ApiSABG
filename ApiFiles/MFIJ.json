@@ -1,0 +1,754 @@
+{
+  "Contrato": {
+    "CodigodeReferencia": "2026-A-A-NAC-A-A-80-002-00023345",
+    "Estatus": "FORMALIZADO",
+    "VersionPublica": "Si",
+    "CodigoExpedienteComprasMX": "E-2026-00036185",
+    "CodigoContratoComprasMX": "C-2026-00028803",
+    "UnidadCompradora": "921081939",
+    "TipoRegistro": "CONTRATO REPORTADO",
+    "Numerodecontrato": "RUTBIS AD/006-FED/2026",
+    "Acciones": ""
+  },
+  "ListaInputsInfo": [
+    {
+      "Panel": "FormPrincipal",
+      "Nombre": "InPutcodigo_referencia",
+      "ValorOriginal": "2026-A-A-NAC-A-A-80-002-00023345",
+      "TipoDato": 9,
+      "ValorConvertido": "2026-A-A-NAC-A-A-80-002-00023345"
+    },
+    {
+      "Panel": "FormPrincipal",
+      "Nombre": "InPutcodigo_expediente",
+      "ValorOriginal": "E-2026-00036185",
+      "TipoDato": 9,
+      "ValorConvertido": "E-2026-00036185"
+    },
+    {
+      "Panel": "FormPrincipal",
+      "Nombre": "InPutcodigo_contrato",
+      "ValorOriginal": "C-2026-00028803",
+      "TipoDato": 9,
+      "ValorConvertido": "C-2026-00028803"
+    },
+    {
+      "Panel": "FormPrincipal",
+      "Nombre": "InPutcodigo_contrato4",
+      "ValorOriginal": "FORMALIZADO",
+      "TipoDato": 9,
+      "ValorConvertido": "FORMALIZADO"
+    },
+    {
+      "Panel": "FormPrincipal",
+      "Nombre": "InPutcodigo_contrato5",
+      "ValorOriginal": "921081939",
+      "TipoDato": 1,
+      "ValorConvertido": 921081939
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "InPutnombre_adquisiciones",
+      "ValorOriginal": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE A TRAVÉS DE MONEDEROS ELECTRÓNICOS",
+      "TipoDato": 9,
+      "ValorConvertido": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE A TRAVÉS DE MONEDEROS ELECTRÓNICOS"
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "InPutdescripcion_adquisiciones",
+      "ValorOriginal": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE A TRAVÉS DE MONEDEROS ELECTRÓNICOS PARA LA UNIVERSIDAD TECNOLÓGICA BILINGÜE INTERNACIONAL Y SUSTENTABLE DE PUEBLA, PARA EL EJERCICIO FISCAL 2026",
+      "TipoDato": 9,
+      "ValorConvertido": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE A TRAVÉS DE MONEDEROS ELECTRÓNICOS PARA LA UNIVERSIDAD TECNOLÓGICA BILINGÜE INTERNACIONAL Y SUSTENTABLE DE PUEBLA, PARA EL EJERCICIO FISCAL 2026"
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "InPutcUcoP_reportado",
+      "ValorOriginal": "26102,34101",
+      "TipoDato": 4,
+      "ValorConvertido": 2610234101
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "InPutnumero_contrato",
+      "ValorOriginal": "RUTBIS AD/006-FED/2026",
+      "TipoDato": 9,
+      "ValorConvertido": "RUTBIS AD/006-FED/2026"
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "InPutfecha_ini_periodo",
+      "ValorOriginal": "15/04/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-04-15T00:00:00"
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "InPutfecha_fin_periodo",
+      "ValorOriginal": "31/12/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-12-31T00:00:00"
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "InPutfecha_formalizacion",
+      "ValorOriginal": "15/04/2026",
+      "TipoDato": 5,
+      "ValorConvertido": "2026-04-15T00:00:00"
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "InPut",
+      "ValorOriginal": "true",
+      "TipoDato": 8,
+      "ValorConvertido": true
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "InPut9",
+      "ValorOriginal": "UTB160627IW7",
+      "TipoDato": 9,
+      "ValorConvertido": "UTB160627IW7"
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "InPut10",
+      "ValorOriginal": "UNIVERSIDAD TECNOLÓGICA BILINGÜE INTERNACIONAL Y SUSTENTABLE DE PUEBLA",
+      "TipoDato": 9,
+      "ValorConvertido": "UNIVERSIDAD TECNOLÓGICA BILINGÜE INTERNACIONAL Y SUSTENTABLE DE PUEBLA"
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "pdropdownley",
+      "ValorOriginal": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO",
+      "TipoDato": 9,
+      "ValorConvertido": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO"
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "pdropdowncategoria",
+      "ValorOriginal": "ADQUISICIONES",
+      "TipoDato": 9,
+      "ValorConvertido": "ADQUISICIONES"
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "pdropdowncapitulo_cucop",
+      "ValorOriginal": "2000",
+      "TipoDato": 1,
+      "ValorConvertido": 2000
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "pdropdowntipo_contrato",
+      "ValorOriginal": "ABIERTO",
+      "TipoDato": 9,
+      "ValorConvertido": "ABIERTO"
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "pdropdowntipo_procedimiento",
+      "ValorOriginal": "ADJUDICACIÓN DIRECTA",
+      "TipoDato": 9,
+      "ValorConvertido": "ADJUDICACIÓN DIRECTA"
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "pdropdownfundamento_legal",
+      "ValorOriginal": "ARTÍCULO 35 FRACCIÓN III",
+      "TipoDato": 9,
+      "ValorConvertido": "ARTÍCULO 35 FRACCIÓN III"
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "pdropdownexcepcion",
+      "ValorOriginal": "Art. 55 párrafo primero",
+      "TipoDato": 9,
+      "ValorConvertido": "Art. 55 párrafo primero"
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "pdropdowncaracter_procedimiento",
+      "ValorOriginal": "NACIONAL",
+      "TipoDato": 9,
+      "ValorConvertido": "NACIONAL"
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "pdropdownforma_procedimiento",
+      "ValorOriginal": "ELECTRÓNICA",
+      "TipoDato": 9,
+      "ValorConvertido": "ELECTRÓNICA"
+    },
+    {
+      "Panel": "Configuración general",
+      "Nombre": "pdropdownplurianual",
+      "ValorOriginal": "NO",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Configuración del Proveedor",
+      "Nombre": "pdropdownes_conjunta",
+      "ValorOriginal": "No",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutca_por_monto_concepto",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutca_por_monto_concepto2",
+      "ValorOriginal": "true",
+      "TipoDato": 8,
+      "ValorConvertido": true
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutca_subtotal_minimo",
+      "ValorOriginal": "$80,512.00",
+      "TipoDato": 9,
+      "ValorConvertido": "$80,512.00"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutca_total_minimo",
+      "ValorOriginal": "$80,593.92",
+      "TipoDato": 9,
+      "ValorConvertido": "$80,593.92"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutca_subtotal_maximo",
+      "ValorOriginal": "$201,280.00",
+      "TipoDato": 9,
+      "ValorConvertido": "$201,280.00"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutca_total_maximo",
+      "ValorOriginal": "$201,484.80",
+      "TipoDato": 9,
+      "ValorConvertido": "$201,484.80"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutnumero_categoria_adquirir",
+      "ValorOriginal": "2",
+      "TipoDato": 1,
+      "ValorConvertido": 2
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutclave",
+      "ValorOriginal": "26102-0013",
+      "TipoDato": 9,
+      "ValorConvertido": "26102-0013"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutdescripcion",
+      "ValorOriginal": "SUMINISTRO DE COMBUSTIBLE ATRAVÉS DE MONEDEROS ELECTRÓNICOS",
+      "TipoDato": 9,
+      "ValorConvertido": "SUMINISTRO DE COMBUSTIBLE ATRAVÉS DE MONEDEROS ELECTRÓNICOS"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutcantidad_minima",
+      "ValorOriginal": "1",
+      "TipoDato": 8,
+      "ValorConvertido": true
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutcantidad_maxima",
+      "ValorOriginal": "1",
+      "TipoDato": 8,
+      "ValorConvertido": true
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutprecio_unitario",
+      "ValorOriginal": "$80,000.00",
+      "TipoDato": 9,
+      "ValorConvertido": "$80,000.00"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutsubtotal_minimo",
+      "ValorOriginal": "$80,000.00",
+      "TipoDato": 9,
+      "ValorConvertido": "$80,000.00"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutsubtotal_maximo",
+      "ValorOriginal": "$200,000.00",
+      "TipoDato": 9,
+      "ValorConvertido": "$200,000.00"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutiva_minimo",
+      "ValorOriginal": "$0.00",
+      "TipoDato": 9,
+      "ValorConvertido": "$0.00"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutiva_maximo",
+      "ValorOriginal": "$0.00",
+      "TipoDato": 9,
+      "ValorConvertido": "$0.00"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutotro_impuesto_minimo",
+      "ValorOriginal": "$0.00",
+      "TipoDato": 9,
+      "ValorConvertido": "$0.00"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutotro_impuesto_maximo",
+      "ValorOriginal": "$0.00",
+      "TipoDato": 9,
+      "ValorConvertido": "$0.00"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutprecio_total_minimo",
+      "ValorOriginal": "$80,000.00",
+      "TipoDato": 9,
+      "ValorConvertido": "$80,000.00"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutprecio_total_maximo",
+      "ValorOriginal": "$200,000.00",
+      "TipoDato": 9,
+      "ValorConvertido": "$200,000.00"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutclave21",
+      "ValorOriginal": "34101-0002",
+      "TipoDato": 9,
+      "ValorConvertido": "34101-0002"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutdescripcion22",
+      "ValorOriginal": "COMISIÓN DEL 0.64% POR CONCEPTO DE USO Y MANEJO DE MONEDEROS ELECTRÓNICOS.",
+      "TipoDato": 9,
+      "ValorConvertido": "COMISIÓN DEL 0.64% POR CONCEPTO DE USO Y MANEJO DE MONEDEROS ELECTRÓNICOS."
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutprecio_unitario23",
+      "ValorOriginal": "$512.00",
+      "TipoDato": 9,
+      "ValorConvertido": "$512.00"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutsubtotal_minimo24",
+      "ValorOriginal": "$512.00",
+      "TipoDato": 9,
+      "ValorConvertido": "$512.00"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutsubtotal_maximo25",
+      "ValorOriginal": "$1,280.00",
+      "TipoDato": 9,
+      "ValorConvertido": "$1,280.00"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutiva_minimo26",
+      "ValorOriginal": "$81.92",
+      "TipoDato": 9,
+      "ValorConvertido": "$81.92"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutiva_maximo27",
+      "ValorOriginal": "$204.80",
+      "TipoDato": 9,
+      "ValorConvertido": "$204.80"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutprecio_total_minimo28",
+      "ValorOriginal": "$593.92",
+      "TipoDato": 9,
+      "ValorConvertido": "$593.92"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutprecio_total_maximo29",
+      "ValorOriginal": "$1,484.80",
+      "TipoDato": 9,
+      "ValorConvertido": "$1,484.80"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "InPutvariacion_precio",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "pdropdownmoneda",
+      "ValorOriginal": "PESO MEXICANO",
+      "TipoDato": 9,
+      "ValorConvertido": "PESO MEXICANO"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "pdropdowncucops",
+      "ValorOriginal": "26102-0013 GASOLINA",
+      "TipoDato": 9,
+      "ValorConvertido": "26102-0013 GASOLINA"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "pdropdownunidades",
+      "ValorOriginal": "SERVICIO",
+      "TipoDato": 9,
+      "ValorConvertido": "SERVICIO"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "pdropdowncucops1",
+      "ValorOriginal": "34101-0002 SERVICIOS BANCARIOS Y FINANCIEROS",
+      "TipoDato": 9,
+      "ValorConvertido": "34101-0002 SERVICIOS BANCARIOS Y FINANCIEROS"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "pdropdownunidades1",
+      "ValorOriginal": "SERVICIO",
+      "TipoDato": 9,
+      "ValorConvertido": "SERVICIO"
+    },
+    {
+      "Panel": "Precios Unitarios",
+      "Nombre": "pdropdownanticipo",
+      "ValorOriginal": "No",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "InPutes_general",
+      "ValorOriginal": "1",
+      "TipoDato": 8,
+      "ValorConvertido": true
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "InPutnumero_suficiencia",
+      "ValorOriginal": "OFICIO NÚMERO SPFA-SE-764-2025 ACUERDO NÚMERO UTBIS.IV.SO/09/09.12.2025 RECURSO FEDERAL CON FOLIO DE AUTORIZACIÓN NÚMERO 2026-08-111-0310-04-0001 OFICIO NÚMERO DPPP-0969/2026",
+      "TipoDato": 9,
+      "ValorConvertido": "OFICIO NÚMERO SPFA-SE-764-2025 ACUERDO NÚMERO UTBIS.IV.SO/09/09.12.2025 RECURSO FEDERAL CON FOLIO DE AUTORIZACIÓN NÚMERO 2026-08-111-0310-04-0001 OFICIO NÚMERO DPPP-0969/2026"
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "InPutnumero_autorizacion",
+      "ValorOriginal": "OFICIO NÚMERO SPFA-SE-764-2025 ACUERDO NÚMERO UTBIS.IV.SO/09/09.12.2025 RECURSO FEDERAL CON FOLIO DE AUTORIZACIÓN NÚMERO 2026-08-111-0310-04-0001 OFICIO NÚMERO DPPP-0969/2026",
+      "TipoDato": 9,
+      "ValorConvertido": "OFICIO NÚMERO SPFA-SE-764-2025 ACUERDO NÚMERO UTBIS.IV.SO/09/09.12.2025 RECURSO FEDERAL CON FOLIO DE AUTORIZACIÓN NÚMERO 2026-08-111-0310-04-0001 OFICIO NÚMERO DPPP-0969/2026"
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "InPutes_general4",
+      "ValorOriginal": "0",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "InPutgarantia_cumplimiento",
+      "ValorOriginal": "true",
+      "TipoDato": 8,
+      "ValorConvertido": true
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "InPutporcentaje_monto",
+      "ValorOriginal": "10",
+      "TipoDato": 1,
+      "ValorConvertido": 10
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "InPutplazo_dias_entrega",
+      "ValorOriginal": "10",
+      "TipoDato": 1,
+      "ValorConvertido": 10
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "InPutpoliza_fianza_titular",
+      "ValorOriginal": "SECRETARIA DE PLANEACIÓN, FINANZAS Y ADMINISTRACIÓN",
+      "TipoDato": 9,
+      "ValorConvertido": "SECRETARIA DE PLANEACIÓN, FINANZAS Y ADMINISTRACIÓN"
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "InPut",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "InPutgarantia_bien_servicio",
+      "ValorOriginal": "true",
+      "TipoDato": 8,
+      "ValorConvertido": true
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "InPutmeses_cumplir_garantia",
+      "ValorOriginal": "9",
+      "TipoDato": 1,
+      "ValorConvertido": 9
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "InPutseguros",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "InPutporcentaje_pena",
+      "ValorOriginal": "0.7%",
+      "TipoDato": 9,
+      "ValorConvertido": "0.7%"
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "InPutmas_porcentaje_pena",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "InPutaplicar_deductiva",
+      "ValorOriginal": "true",
+      "TipoDato": 8,
+      "ValorConvertido": true
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "InPutporcentaje_deductiva",
+      "ValorOriginal": "0.7%",
+      "TipoDato": 9,
+      "ValorConvertido": "0.7%"
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "InPutmas_porcentaje_deductiva",
+      "ValorOriginal": "false",
+      "TipoDato": 8,
+      "ValorConvertido": false
+    },
+    {
+      "Panel": "Suficiencia presupuestaria, garantías, penas y deductivas",
+      "Nombre": "pdropdownpoliza_fianza_divisible",
+      "ValorOriginal": "NO DIVISIBLE",
+      "TipoDato": 9,
+      "ValorConvertido": "NO DIVISIBLE"
+    },
+    {
+      "Panel": "Modelo",
+      "Nombre": "InPutnumero_contrato",
+      "ValorOriginal": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE A TRAVÉS DE MONEDEROS ELECTRÓNICOS",
+      "TipoDato": 9,
+      "ValorConvertido": "SERVICIO DE SUMINISTRO DE COMBUSTIBLE A TRAVÉS DE MONEDEROS ELECTRÓNICOS"
+    },
+    {
+      "Panel": "Modelo",
+      "Nombre": "InPutnumero_contrato2",
+      "ValorOriginal": "RUTBIS AD/006-FED/2026",
+      "TipoDato": 9,
+      "ValorConvertido": "RUTBIS AD/006-FED/2026"
+    }
+  ],
+  "TablasExtraidas": [
+    {
+      "Titulo": "partida específica *;Clave|Descripción partida específica",
+      "Filas": [
+        {
+          "Clave": "26102",
+          "Descripción partida específica": "COMBUSTIBLES, LUBRICANTES Y ADITIVOS PARA VEHÍCULOS TERRESTRES, AÉREOS, MARÍTIMOS, LACUSTRES Y FLUVIALES DESTINADOS A SERVICIOS PÚBLICOS Y LA OPERACIÓN DE PROGRAMAS PÚBLICOS"
+        },
+        {
+          "Clave": "34101",
+          "Descripción partida específica": "SERVICIOS BANCARIOS Y FINANCIEROS"
+        }
+      ]
+    },
+    {
+      "Titulo": "Participantes de la Institución Contratante *;Ramo|Unidad|Requiere Representante|RFC Dependencia o Entidad|Nombre Dependencia o Entidad",
+      "Filas": [
+        {
+          "Ramo": "80",
+          "Unidad": "002",
+          "Requiere Representante": "true",
+          "RFC Dependencia o Entidad": "UTB160627IW7",
+          "Nombre Dependencia o Entidad": "UNIVERSIDAD TECNOLÓGICA BILINGÜE INTERNACIONAL Y SUSTENTABLE DE PUEBLA"
+        }
+      ]
+    },
+    {
+      "Titulo": "Configuración de Firmantes;Ramo|Unidad|RFC|Nombre|Puesto",
+      "Filas": [
+        {
+          "Ramo": "80",
+          "Unidad": "002",
+          "RFC": "PEMA500424GK3",
+          "Nombre": "ALEJANDRO PEDROZA MELÉNDEZ",
+          "Puesto": "RECTOR"
+        }
+      ]
+    },
+    {
+      "Titulo": "Representante de la dependencia *;Ramo|Unidad|RFC|Nombre|Puesto",
+      "Filas": [
+        {
+          "Ramo": "80",
+          "Unidad": "002",
+          "RFC": "HECS870818V61",
+          "Nombre": "SYNDI HERNÁNDEZ CASTRO",
+          "Puesto": "SECRETARIA DE ADMINISTRACIÓN Y FINANZAS DE LA UNIVERSIDAD"
+        }
+      ]
+    },
+    {
+      "Titulo": "Administrador del contrato *;Ramo|Unidad|RFC|Nombre|Puesto",
+      "Filas": []
+    },
+    {
+      "Titulo": "La oferta ganadora del procedimiento fue una propuesta conjunta * ;RFC|Razón Social|Dirección",
+      "Filas": [
+        {
+          "RFC": "PUN9810229R0",
+          "Razón Social": "SI VALE MEXICO SA DE CV",
+          "Dirección": "AVE. PASEO DE LA REFORMA NO. 284 PISO 23 COL. JUAREZ, COLONIA JUÁREZCUAUHTÉMOC, CIUDAD DE MÉXICO, MÉXICO, C.P. 06600"
+        }
+      ]
+    },
+    {
+      "Titulo": "Cantidad a contratar *;Partida|Clave CUCoP *|Descripción *|Unidad de medida *|Cantidad mínima *|Cantidad máxima *|Precio unitario *|Subtotal mínimo *|Subtotal máximo *|IVA mínimo *|IVA máximo *|Otros impuestos mínimo *|Otros impuestos máximo *|Total mínimo *|Total máximo *",
+      "Filas": [
+        {
+          "Partida": "26102-0013",
+          "Clave CUCoP *": "26102-0013 GASOLINA",
+          "Descripción *": "SUMINISTRO DE COMBUSTIBLE ATRAVÉS DE MONEDEROS ELECTRÓNICOS",
+          "Unidad de medida *": "SERVICIO",
+          "Cantidad mínima *": "1",
+          "Cantidad máxima *": "1",
+          "Precio unitario *": "$80,000.00",
+          "Subtotal mínimo *": "$80,000.00",
+          "Subtotal máximo *": "$200,000.00",
+          "IVA mínimo *": "$0.00",
+          "IVA máximo *": "$0.00",
+          "Otros impuestos mínimo *": "$0.00",
+          "Otros impuestos máximo *": "$0.00",
+          "Total mínimo *": "$80,000.00",
+          "Total máximo *": "$200,000.00"
+        },
+        {
+          "Partida": "34101-0002",
+          "Clave CUCoP *": "34101-0002 SERVICIOS BANCARIOS Y FINANCIEROS",
+          "Descripción *": "COMISIÓN DEL 0.64% POR CONCEPTO DE USO Y MANEJO DE MONEDEROS ELECTRÓNICOS.",
+          "Unidad de medida *": "SERVICIO",
+          "Cantidad mínima *": "1",
+          "Cantidad máxima *": "1",
+          "Precio unitario *": "$512.00",
+          "Subtotal mínimo *": "$512.00",
+          "Subtotal máximo *": "$1,280.00",
+          "IVA mínimo *": "$81.92",
+          "IVA máximo *": "$204.80",
+          "Otros impuestos mínimo *": "$0.00",
+          "Otros impuestos máximo *": "$0.00",
+          "Total mínimo *": "$593.92",
+          "Total máximo *": "$1,484.80"
+        }
+      ]
+    },
+    {
+      "Titulo": "Cargar al menos un documento como evidencia de la suficiencia y autorización *;Tipo de Documento|Nombre del archivo|Acciones",
+      "Filas": [
+        {
+          "Tipo de Documento": "DOCUMENTO SUFICIENCIA",
+          "Nombre del archivo": "SUFICIENCIA.pdf",
+          "Acciones": ""
+        }
+      ]
+    },
+    {
+      "Titulo": "Subir PDF de hasta 150 MB con el contrato a validar y formalizar conforme a las modelos de contrato autorizadas por SHCP y SFP, los cuales puede consultar en el menú Descarga de modelos o en la página (link);Tipo de Documento|Nombre del archivo|Acciones",
+      "Filas": [
+        {
+          "Tipo de Documento": "CONTRATO",
+          "Nombre del archivo": "CONTRATO.pdf",
+          "Acciones": ""
+        }
+      ]
+    },
+    {
+      "Titulo": "Subir PDF de hasta 150 MB de la versión pública del Contrato formalizado.;Tipo de Documento|Nombre del archivo|Acciones",
+      "Filas": [
+        {
+          "Tipo de Documento": "VERSIÓN PÚBLICA CONTRATO",
+          "Nombre del archivo": "CONTRATO tes.pdf",
+          "Acciones": ""
+        }
+      ]
+    },
+    {
+      "Titulo": "Anexos;Tipo de Documento|Nombre del archivo|Acciones",
+      "Filas": [
+        {
+          "Tipo de Documento": "FIANZA",
+          "Nombre del archivo": "POLIZA.pdf",
+          "Acciones": ""
+        }
+      ]
+    },
+    {
+      "Titulo": "Anexos;Fecha|Usuario|Rol|Acción|Comentarios|Archivo",
+      "Filas": [
+        {
+          "Fecha": "28/04/2026",
+          "Usuario": "SYNDI HERNÁNDEZ CASTRO",
+          "Rol": "Unidad compradora",
+          "Acción": "Formalizar contrato",
+          "Comentarios": "",
+          "Archivo": ""
+        },
+        {
+          "Fecha": "15/04/2026",
+          "Usuario": "SYNDI HERNÁNDEZ CASTRO",
+          "Rol": "Unidad compradora",
+          "Acción": "Generar Contrato",
+          "Comentarios": "Inicia configuración del Contrato",
+          "Archivo": ""
+        }
+      ]
+    }
+  ]
+}
